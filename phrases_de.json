@@ -1,0 +1,9 @@
+[
+    { "id": "g01", "text": "Wie geht es Ihnen heute?", "type": "general" },
+    { "id": "g02", "text": "Können Sie das bitte wiederholen?", "type": "general" },
+    { "id": "g03", "text": "Ich verstehe Sie nicht ganz.", "type": "general" },
+    { "id": "m01", "text": "Bitte atmen Sie tief ein und aus.", "type": "medical" },
+    { "id": "m02", "text": "Haben Sie irgendwo Schmerzen?", "type": "medical" },
+    { "id": "m03", "text": "Ich messe jetzt Ihren Blutdruck.", "type": "medical" }
+  ]
+  
