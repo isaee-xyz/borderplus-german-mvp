@@ -1,9 +1,23 @@
 [
-    { "id": "g01", "text": "Wie geht es Ihnen heute?", "type": "general" },
-    { "id": "g02", "text": "Können Sie das bitte wiederholen?", "type": "general" },
-    { "id": "g03", "text": "Ich verstehe Sie nicht ganz.", "type": "general" },
-    { "id": "m01", "text": "Bitte atmen Sie tief ein und aus.", "type": "medical" },
-    { "id": "m02", "text": "Haben Sie irgendwo Schmerzen?", "type": "medical" },
-    { "id": "m03", "text": "Ich messe jetzt Ihren Blutdruck.", "type": "medical" }
-  ]
-  
+  { "id": "g01", "text": "Wie geht es Ihnen heute?",              "type": "general" },
+  { "id": "g02", "text": "Können Sie das bitte wiederholen?",     "type": "general" },
+  { "id": "g03", "text": "Ich verstehe Sie nicht ganz.",          "type": "general" },
+  { "id": "g04", "text": "Ich hätte gerne einen Kaffee.",         "type": "general" },
+  { "id": "g05", "text": "Wo ist die nächste Apotheke?",          "type": "general" },
+  { "id": "g06", "text": "Können Sie mir den Weg zeigen?",        "type": "general" },
+  { "id": "g07", "text": "Ich habe meine Schlüssel verloren.",    "type": "general" },
+  { "id": "g08", "text": "Wie spät ist es jetzt?",                "type": "general" },
+  { "id": "g09", "text": "Entschuldigung, ich spreche nur wenig Deutsch.", "type": "general" },
+  { "id": "g10", "text": "Könnten Sie langsamer sprechen?",       "type": "general" },
+
+  { "id": "m01", "text": "Bitte atmen Sie tief ein und aus.",     "type": "medical" },
+  { "id": "m02", "text": "Haben Sie irgendwo Schmerzen?",         "type": "medical" },
+  { "id": "m03", "text": "Ich messe jetzt Ihren Blutdruck.",      "type": "medical" },
+  { "id": "m04", "text": "Ich werde Ihre Temperatur messen.",     "type": "medical" },
+  { "id": "m05", "text": "Bitte legen Sie sich auf das Bett.",    "type": "medical" },
+  { "id": "m06", "text": "Nehmen Sie diese Tabletten zweimal täglich.", "type": "medical" },
+  { "id": "m07", "text": "Sind Sie gegen irgendetwas allergisch?", "type": "medical" },
+  { "id": "m08", "text": "Ich werde eine Blutprobe entnehmen.",   "type": "medical" },
+  { "id": "m09", "text": "Bitte trinken Sie mehr Wasser.",        "type": "medical" },
+  { "id": "m10", "text": "Haben Sie heute Medikamente eingenommen?", "type": "medical" }
+]
