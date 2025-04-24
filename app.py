@@ -124,7 +124,6 @@ st.radio(
     on_change=lambda: (
         setattr(ss, "idx_in_set", ss.preset_ids.index(st.session_state["phrase_picker"])),
         load_phrase(st.session_state["phrase_picker"]),
-        st.rerun(),
     ),
 )
 
