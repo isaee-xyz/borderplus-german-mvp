@@ -171,6 +171,7 @@ if st.button("Stop & Submit", disabled=disabled_btn):
 
     # ── feedback ─────────────────────────────────────────────────────────
     st.markdown("---"); st.subheader("🔍 Feedback")
+    st.markdown(f"**Transcript:** _{hyp if hyp else '—'}_")
     st.write(f"**Similarity:** {sim_pct}%  → {badge(sim_pct)}")
 
     if acc is not None:
