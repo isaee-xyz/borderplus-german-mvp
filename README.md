@@ -39,7 +39,7 @@ The loop turns tutor-driven drill into self-paced practice, freeing instructors 
 
 ---
 
-## 🚀 To Go Live (Week-2 Roadmap)
+## 🚀 To Go Live 
 
 1. **Structured Feedback Loop** – onboard first tutors & learners, capture friction points daily.  
 2. **Expand content coverage** – build a larger database of nurse-specific phrases enriched with medical terminology and cultural tips, delivering context-relevant practice.  
