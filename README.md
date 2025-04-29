@@ -47,4 +47,3 @@ The loop turns tutor-driven drill into self-paced practice, freeing instructors 
 4. **Dockerised Build & Scaling** – hardened image, push to Fargate/K8s; health checks + auto-scale.  
 5. **Compliance Review** – confirm GDPR logging, audio-retention policy, DPIA for healthcare data.
 
-These steps move German Buddy from MVP to pilot-ready, saving **2 000+ tutor hours per cohort** while giving nurses a 24/7 personalised mentor.
